@@ -12,12 +12,20 @@ This project involves exploring and analyzing Covid-19 data using SQL. It includ
 - Creating Views
 - Converting Data Types
 
-## Data Sources
+## Project Structure
 
-The project uses two main datasets:
-1. `CovidDeaths`
-2. `CovidVaccinations`
+The project directory includes the following files and folders:
 
+- Datasets used for analysis.
+  - `CovidDeaths.xlsx`
+  - `CovidVaccinations.xlsx`
+- SQL query files.
+  - `Data Exploration Queries.sql`
+  - `Tableau SQL Queries.sql`
+- A Tableau workbook file for the dashboard.
+  - `Covid Dashboard Package.twbx`
+- `Dashboard.png`
+ 
 ## Queries Included
 
 1. **Basic Data Selection**
@@ -47,6 +55,8 @@ The project uses two main datasets:
 
 9. **Creating Views**
    - Creating views to store data for later visualizations.
+
+
 
 ## Contribution
 
